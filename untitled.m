@@ -10,7 +10,7 @@ actuator_delay = single(1);%new parameter
 %clutch_delay = single(1);
 
 %% PwSpl
-boost_modifier = single(10);
+boost_modifier = single(400);
 regen_modifier = single(4);
 
 %% Safety
